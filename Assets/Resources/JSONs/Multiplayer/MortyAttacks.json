@@ -1,0 +1,8136 @@
+[
+  {
+    "morty_id": "MortyAcePilot",
+    "attacks": [
+      {
+        "attack_id": "AttackBlitz",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackFixerUpper",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackWingBlast",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAdSpace",
+    "attacks": [
+      {
+        "attack_id": "AttackBrand",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEntertain",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackMonetize",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackPreach",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAfro",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCriticise",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCurl",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackDelouse",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 28
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAncient",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackBoilSqueeze",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAnimatronic",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCompute",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackDefragment",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackReboot",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAqua",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDescale",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackFangRage",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScrunch",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyArmomaly",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyAsleep",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDoze",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackHibernate",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnooze",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBanana",
+    "attacks": [
+      {
+        "attack_id": "AttackBunchUp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackLasso",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRootDown",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 22
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBeard",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCrimp",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBeth",
+    "attacks": [
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDenial",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackMoodKill",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMope",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackOutpour",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackRepress",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSoulSearch",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBigTongue",
+    "attacks": [
+      {
+        "attack_id": "AttackCaress",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSlobber",
+        "level": 45
+      },
+      {
+        "attack_id": "AttackSmooch",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBiker",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackRollingStone",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackServingUp",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBirdosaur",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackCertitude",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFangRage",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBlackhole",
+    "attacks": [
+      {
+        "attack_id": "AttackDarkVoid",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGForce",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackImplode",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBlob",
+    "attacks": [
+      {
+        "attack_id": "AttackAura",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBlueShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackBlueSpray",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBootCamp",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlitz",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCrewCut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBoulder",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackJab",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackTombstone",
+        "level": 41
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBuff",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSpar",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyBusiness",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackBrand",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMonetize",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackStockCrash",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyButterfly",
+    "attacks": [
+      {
+        "attack_id": "AttackClarity",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackCut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDistract",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackHibernate",
+        "level": 43
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackWingBlast",
+        "level": 47
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCabinBoy",
+    "attacks": [
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHeaveDown",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackHornswoggle",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackLegSweep",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSing",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCacoon",
+    "attacks": [
+      {
+        "attack_id": "AttackClarity",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackCut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDistract",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackHibernate",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCaptain",
+    "attacks": [
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHeaveDown",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackHornswoggle",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackLegSweep",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPiracy",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackScuttle",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackSing",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCarcinogenic",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackVaccinate",
+        "level": 43
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyChops",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCriticise",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCurl",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 28
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCold",
+    "attacks": [
+      {
+        "attack_id": "AttackAbsorb",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackBrainFreeze",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackIcyTouch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShatter",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackThaw",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCount",
+    "attacks": [
+      {
+        "attack_id": "AttackBiokinesis",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackGrieve",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCowboy",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCriticise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackLasso",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackQuickDraw",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCrazyCat",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 34
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCrewman",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCronenberg",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackMangle",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCup",
+    "attacks": [
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackPrey",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackRepress",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSmooch",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 38
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyCyclops",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDistract",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDangerous",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackProtectionRacket",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStrengthen",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWedgie",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDefault",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDenimShorts",
+    "attacks": [
+      {
+        "attack_id": "AttackBreakIn",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackCrease",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackIronOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMachineWash",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDetective",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackNail",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProtectionRacket",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDiamondEyes",
+    "attacks": [
+      {
+        "attack_id": "AttackClarity",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackCut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDistract",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 31
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDog",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackWetTounge",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDogBite",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackWetTounge",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDouble",
+    "attacks": [
+      {
+        "attack_id": "AttackCrimp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 29
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDoubleDenim",
+    "attacks": [
+      {
+        "attack_id": "AttackBreakIn",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackCrease",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackIronOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMachineWash",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackStoneWash",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyDoubleSnoozle",
+    "attacks": [
+      {
+        "attack_id": "AttackCough",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnotBlast",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 33
+      }
+    ]
+  },
+  {
+    "morty_id": "Mortydrangea",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackRootDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyEgg",
+    "attacks": [
+      {
+        "attack_id": "AttackHarden",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyEnsign",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyEvilRabbit",
+    "attacks": [
+      {
+        "attack_id": "AttackDig",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyExoAlpha",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 11
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyExoOmega",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 11
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyExoPrime",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 44
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 11
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyExoskeleton",
+    "attacks": [
+      {
+        "attack_id": "AttackClaw",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackStrengthen",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 19
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyFawn",
+    "attacks": [
+      {
+        "attack_id": "AttackBlink",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackDarkVoid",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDenial",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGrieve",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackMope",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSoulSearch",
+        "level": 41
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyFlaming",
+    "attacks": [
+      {
+        "attack_id": "AttackAbsorb",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackAura",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackBurn",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFireBall",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRedMist",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackSuperNova",
+        "level": 45
+      },
+      {
+        "attack_id": "AttackTorch",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyFlu",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackCough",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackJab",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSneeze",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackVomit",
+        "level": 23
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyFork",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackServingUp",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 34
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyFrozen",
+    "attacks": [
+      {
+        "attack_id": "AttackAbsorb",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackAura",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackBrainFreeze",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackIcyTouch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackLetItGo",
+        "level": 45
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShatter",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackThaw",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGaseous",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackShrinkingGas",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackSolidify",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackVapeFume",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGeriatric",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGhostly",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPiercingStare",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGoo",
+    "attacks": [
+      {
+        "attack_id": "AttackAura",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSlobber",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGreaser",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackServingUp",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGreenShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackGreenBlur",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyGuard",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackDistract",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackLegislate",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHammerhead",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackClaw",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackNail",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHardboiled",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackNail",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProtectionRacket",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHead1",
+    "attacks": [
+      {
+        "attack_id": "AttackBlink",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 19
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHead2",
+    "attacks": [
+      {
+        "attack_id": "AttackBlink",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 20
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHead3",
+    "attacks": [
+      {
+        "attack_id": "AttackBlink",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackBunt",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackRollingStone",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 20
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHeadChef",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackGooeyCheese",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSliceAndDice",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHeadism",
+    "attacks": [
+      {
+        "attack_id": "AttackAscend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackCertitude",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackDenial",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPreach",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackRecitation",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 19
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHippie",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackGreenBlur",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHipster",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCrimp",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackEffeteCharm",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHobo",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackFixerUpper",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackNickelAndDime",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHost",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyHot",
+    "attacks": [
+      {
+        "attack_id": "AttackAbsorb",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackBurn",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFireBall",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRedMist",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackTorch",
+        "level": 18
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyInfected",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyJelly",
+    "attacks": [
+      {
+        "attack_id": "AttackAura",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyJerry",
+    "attacks": [
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDenial",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackGrieve",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackMoodKill",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMope",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackOutpour",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackRepress",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyJerryFan",
+    "attacks": [
+      {
+        "attack_id": "AttackChastise",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShatter",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSignAutograph",
+        "level": 38
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyJerrysGame",
+    "attacks": [
+      {
+        "attack_id": "AttackBrand",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEntertain",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackMonetize",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackPreach",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSelfie",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyKarate",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSpar",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyKitchenBoy",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 21
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyLieutenant",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRecitation",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyLoner",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStrengthen",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWedgie",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMagic",
+    "attacks": [
+      {
+        "attack_id": "AttackFlail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGuillotine",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackNickelAndDime",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMascot",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEntertain",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScrunch",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackSelfie",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSignAutograph",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMega",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackMangle",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRegenerate",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMermaid",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSing",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSplash",
+        "level": 25
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMiami",
+    "attacks": [
+      {
+        "attack_id": "AttackFlair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGlitterBlast",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackJuice",
+        "level": 44
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackLoveYourself",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackNewWave",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackParty",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMini",
+    "attacks": [
+      {
+        "attack_id": "AttackAntBite",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackBelch",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackShrinkingGas",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMoon",
+    "attacks": [
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGForce",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackImplode",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMortaion",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMorticia",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMortox",
+    "attacks": [
+      {
+        "attack_id": "AttackAerokinesis",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackGForce",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackInferno",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackNewWave",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSoulSearch",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackVapeFume",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 5
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMotionCapture",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackAura",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMullet",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCriticise",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCurl",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 28
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMulti",
+    "attacks": [
+      {
+        "attack_id": "AttackCrimp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMangle",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMushroomPizza",
+    "attacks": [
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSliceAndDice",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackThaw",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMustache",
+    "attacks": [
+      {
+        "attack_id": "AttackComb",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackCrimp",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 14
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMutagen",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMutantFlu",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackCough",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackImmunisation",
+        "level": 46
+      },
+      {
+        "attack_id": "AttackJab",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSneeze",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackVaccinate",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackVomit",
+        "level": 23
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyMystic",
+    "attacks": [
+      {
+        "attack_id": "AttackFlail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGuillotine",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackNickelAndDime",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyNewBlood",
+    "attacks": [
+      {
+        "attack_id": "AttackBiokinesis",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyNewShoot",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRootDown",
+        "level": 35
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyNoEye",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyNoMercy",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackLegSweep",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSpar",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyNoSkin",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 25
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOffTheGrid",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackGreenBlur",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackRootDown",
+        "level": 37
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOfTheValley",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRootDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOld",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOldOne",
+    "attacks": [
+      {
+        "attack_id": "AttackAerokinesis",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackBiokinesis",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackGrieve",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOneEye",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 33
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOrange",
+    "attacks": [
+      {
+        "attack_id": "AttackBunchUp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackOrangeShower",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 22
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyOrangeShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOrangeShower",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyParasitic",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodSuck",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 36
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPastryChef",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSliceAndDice",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPeace",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGreenBlur",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackHug",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPepperoniPizza",
+    "attacks": [
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackGooeyCheese",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackMouthOff",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSliceAndDice",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackThaw",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPetrified",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackJab",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 11
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPhantom",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackExoFragment",
+        "level": 43
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPiercingStare",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPizza",
+    "attacks": [
+      {
+        "attack_id": "AttackDefend",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSliceAndDice",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackThaw",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPlumbonia",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackClaw",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHydroBlast",
+        "level": 44
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackStoneGaze",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPlumbusMaster",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackBoneExtract",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackStoneWash",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPlumbusPrawn",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoisonSpit",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSlobber",
+        "level": 44
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 17
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPlumbusSlave",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackStoneWash",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPlumbusWorker",
+    "attacks": [
+      {
+        "attack_id": "AttackBlowDry",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackStoneWash",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPocketMortys",
+    "attacks": [
+      {
+        "attack_id": "AttackBrand",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEntertain",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackMonetize",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackPreach",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackSelfie",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPrancer",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackCertitude",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackDelouse",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFangRage",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackRegenerate",
+        "level": 43
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPsychokinetic",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPunk",
+    "attacks": [
+      {
+        "attack_id": "AttackCrewCut",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackCriticise",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackPunked",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackStraightEdge",
+        "level": 44
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyPurpleShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPurpleSquirt",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRabbit",
+    "attacks": [
+      {
+        "attack_id": "AttackDig",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRainbowShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRainBow",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRainbowSuit",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackAura",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackOutpour",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRaptor",
+    "attacks": [
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackFossilise",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackPrey",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackScratchAndSniff",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRedShirt",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 4
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRedMist",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackUnleash",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRenegade",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlitz",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCrewCut",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyReptile",
+    "attacks": [
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFossilise",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackScratchAndSniff",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyReverseMermaid",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHydroBlast",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSing",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSplash",
+        "level": 25
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRick",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrieve",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackMoodKill",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMope",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackReminisce",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackRepress",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSoulSearch",
+        "level": 40
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRobot",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackCompute",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackDefragment",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackReboot",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyRookie",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackNail",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProtectionRacket",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySaurus",
+    "attacks": [
+      {
+        "attack_id": "AttackBoneExtract",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackFossilise",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackPrey",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackScratchAndSniff",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySausage",
+    "attacks": [
+      {
+        "attack_id": "AttackCrimp",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyScruffy",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackFixerUpper",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySelfDefence",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackSpar",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySexyDevil",
+    "attacks": [
+      {
+        "attack_id": "Attack666",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackClarity",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackCurl",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackInferno",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyShadow",
+    "attacks": [
+      {
+        "attack_id": "AttackDistract",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEffeteCharm",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackShadowPuppet",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyShallowClone",
+    "attacks": [
+      {
+        "attack_id": "AttackBoneExtract",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackCough",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDenial",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackStitch",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackVileSpew",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyShellShocked",
+    "attacks": [
+      {
+        "attack_id": "AttackAttention",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlitz",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCrewCut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySingleSnoozle",
+    "attacks": [
+      {
+        "attack_id": "AttackCough",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnotBlast",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 25
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySkeleton",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackBoneExtract",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 25
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySkinSuit",
+    "attacks": [
+      {
+        "attack_id": "AttackAura",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEnergyDrain",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackFlutter",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackMedicate",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackSuitAndBoot",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySleepy",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDoze",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackHibernate",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySpliced",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackMangle",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackNeutralise",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPillage",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackRegenerate",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackStrengthen",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 15
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySpooky",
+    "attacks": [
+      {
+        "attack_id": "AttackCry",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 9
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySpoon",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackServingUp",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 17
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySpork",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackDinnerTime",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPoke",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackServingUp",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 34
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyStoned",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackJab",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyStrawberry",
+    "attacks": [
+      {
+        "attack_id": "AttackBunchUp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRedMist",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSprout",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 22
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyStrayCat",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 22
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySummer",
+    "attacks": [
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackFlowerChild",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackMoodKill",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackMope",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackRepress",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySun",
+    "attacks": [
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGForce",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackImplode",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackVaporize",
+        "level": 17
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySuperMortyFan",
+    "attacks": [
+      {
+        "attack_id": "AttackCaress",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFanArt",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackLoveYourself",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSelfie",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackSelfPromote",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 10
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySuperRickFan",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackCaress",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackCheekPinch",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackFanArt",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackRickyTikkiTavi",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSoggyKiss",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 22
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySuperUnicorn",
+    "attacks": [
+      {
+        "attack_id": "AttackCaress",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGlitterBlast",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackStraightEdge",
+        "level": 39
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySurvivalist",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySurvivor",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySwashbuckle",
+    "attacks": [
+      {
+        "attack_id": "AttackCuttingGaze",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackHeaveDown",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackHornswoggle",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackLegSweep",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackProbe",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackScuttle",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackSing",
+        "level": 7
+      }
+    ]
+  },
+  {
+    "morty_id": "MortySwimmer",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackRush",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSplash",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTelekinetic",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTelepathic",
+    "attacks": [
+      {
+        "attack_id": "AttackBeam",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackInvasion",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStarGaze",
+        "level": 8
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTestX1",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 6
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTestX46",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 33
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTestX72",
+    "attacks": [
+      {
+        "attack_id": "AttackCellSplitter",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackMoisten",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPlasmaBurst",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackPurpleSquirt",
+        "level": 39
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 33
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTheOneTrue",
+    "attacks": [
+      {
+        "attack_id": "AttackAscend",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackGoldenTouch",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPray",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyThreeEye",
+    "attacks": [
+      {
+        "attack_id": "AttackBlindSwing",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackBlink",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackErase",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPiercingStare",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 35
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTired",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackDeadStair",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDroll",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackHibernate",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackNodeOff",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTriple",
+    "attacks": [
+      {
+        "attack_id": "AttackCrimp",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMindMeld",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackMindRage",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackMutate",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 30
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTripleDenim",
+    "attacks": [
+      {
+        "attack_id": "AttackBreakIn",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackCrease",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackIronOut",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackMachineWash",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackStoneWash",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackTateOchi",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 16
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTripleSnoozle",
+    "attacks": [
+      {
+        "attack_id": "AttackCough",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackDrool",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackEngulf",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnotBlast",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackStaticShock",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackSuck",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackWrangle",
+        "level": 34
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTurbulentJuice",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 14
+      },
+      {
+        "attack_id": "AttackCurl",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackExfoliate",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackJuice",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackLift",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackRelax",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSalivate",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackSelfie",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyTwoCat",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackLick",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScratchingPost",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSnippet",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 34
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyUnicorn",
+    "attacks": [
+      {
+        "attack_id": "AttackCaress",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 13
+      },
+      {
+        "attack_id": "AttackGlitterBlast",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 27
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyUnicornChaser",
+    "attacks": [
+      {
+        "attack_id": "AttackCaress",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackEncrust",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackFlair",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackGlitterBlast",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackKick",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackLoveBug",
+        "level": 17
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyUnkempt",
+    "attacks": [
+      {
+        "attack_id": "AttackBunt",
+        "level": 22
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 29
+      },
+      {
+        "attack_id": "AttackDropOut",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackExamine",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackFixerUpper",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 34
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyVainy",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackGooeyDischarge",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackGrossOut",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHaunt",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackMelt",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackTransplant",
+        "level": 24
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyVestTop",
+    "attacks": [
+      {
+        "attack_id": "Attack100Cotton",
+        "level": 38
+      },
+      {
+        "attack_id": "AttackAura",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackComb",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMachineWash",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackStitch",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 12
+      },
+      {
+        "attack_id": "AttackWedgie",
+        "level": 29
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyViolent",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 32
+      },
+      {
+        "attack_id": "AttackFierceLunge",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackProtectionRacket",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackStoneFists",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStrengthen",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackWedgie",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyVNeck",
+    "attacks": [
+      {
+        "attack_id": "AttackComb",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMachineWash",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPout",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackShave",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackStitch",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackWearDown",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackWedgie",
+        "level": 29
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyVolcan",
+    "attacks": [
+      {
+        "attack_id": "AttackBloodPressure",
+        "level": 28
+      },
+      {
+        "attack_id": "AttackCertitude",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackDelouse",
+        "level": 37
+      },
+      {
+        "attack_id": "AttackDig",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFangRage",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackFurBall",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 16
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyWerewolf",
+    "attacks": [
+      {
+        "attack_id": "AttackClawsOut",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackCondition",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDefend",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackNibble",
+        "level": 7
+      },
+      {
+        "attack_id": "AttackPuffyTail",
+        "level": 18
+      },
+      {
+        "attack_id": "AttackRegenerate",
+        "level": 40
+      },
+      {
+        "attack_id": "AttackSneer",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSnub",
+        "level": 27
+      },
+      {
+        "attack_id": "AttackWetTounge",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyWildMan",
+    "attacks": [
+      {
+        "attack_id": "AttackClaw",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackCrush",
+        "level": 25
+      },
+      {
+        "attack_id": "AttackDrowse",
+        "level": 20
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 5
+      },
+      {
+        "attack_id": "AttackFortify",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGrab",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackProtect",
+        "level": 10
+      },
+      {
+        "attack_id": "AttackRetainStrength",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackSlumber",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 32
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyWildMascot",
+    "attacks": [
+      {
+        "attack_id": "AttackBelch",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackCry",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackDeathStare",
+        "level": 23
+      },
+      {
+        "attack_id": "AttackEntertain",
+        "level": 31
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackOutburst",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackScrunch",
+        "level": 15
+      },
+      {
+        "attack_id": "AttackSignAutograph",
+        "level": 36
+      },
+      {
+        "attack_id": "AttackSpear",
+        "level": 26
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyWizard",
+    "attacks": [
+      {
+        "attack_id": "AttackFireBall",
+        "level": 41
+      },
+      {
+        "attack_id": "AttackFlail",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackGuillotine",
+        "level": 9
+      },
+      {
+        "attack_id": "AttackHypnotize",
+        "level": 35
+      },
+      {
+        "attack_id": "AttackMindRead",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackMortify",
+        "level": 24
+      },
+      {
+        "attack_id": "AttackNegativeEnergy",
+        "level": 6
+      },
+      {
+        "attack_id": "AttackNickelAndDime",
+        "level": 30
+      },
+      {
+        "attack_id": "AttackOuija",
+        "level": 19
+      },
+      {
+        "attack_id": "AttackSparkle",
+        "level": 13
+      }
+    ]
+  },
+  {
+    "morty_id": "MortyWrestler",
+    "attacks": [
+      {
+        "attack_id": "AttackCrush",
+        "level": 21
+      },
+      {
+        "attack_id": "AttackHarden",
+        "level": 11
+      },
+      {
+        "attack_id": "AttackHumiliate",
+        "level": 26
+      },
+      {
+        "attack_id": "AttackProvoke",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSlam",
+        "level": 1
+      },
+      {
+        "attack_id": "AttackSpar",
+        "level": 8
+      },
+      {
+        "attack_id": "AttackStareDown",
+        "level": 33
+      },
+      {
+        "attack_id": "AttackSuplex",
+        "level": 42
+      },
+      {
+        "attack_id": "AttackSwing",
+        "level": 16
+      }
+    ]
+  }
+]

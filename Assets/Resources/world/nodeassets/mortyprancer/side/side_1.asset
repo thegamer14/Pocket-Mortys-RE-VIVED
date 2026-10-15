@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: side_1
+  m_Rect:
+    serializedVersion: 2
+    x: 15.042908
+    y: 0.076120496
+    width: 105.93034
+    height: 130.84775
+  m_Offset: {x: -0.50807965, y: 15.500006}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.49520364, y: 0.61845833}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 939df42fc4a1d524d861a9568d24aee0, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.375, y: 0.5, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.225, y: -0.27, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.265, y: -0.07, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.175, y: -0.81, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.265, y: 0.5, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.425, y: 0.38, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.525, y: 0.07, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.525, y: -0.26, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.525, y: -0.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.535, y: -0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.535, y: -0.12, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.445, y: -0.81, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.285, y: -0.16, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.245, y: -0.22, z: 0}
+    indices: 030001000b000d000b0001000c000b000d0008000b000c0009000b0008000a0009000800070006000300050003000600040003000500000003000400010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 15.042908
+      y: 0.076120496
+      width: 105.93034
+      height: 130.84775
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 67.5, z: 100, w: 81}

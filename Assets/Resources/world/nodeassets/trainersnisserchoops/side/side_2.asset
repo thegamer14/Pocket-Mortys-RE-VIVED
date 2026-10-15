@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: side_2
+  m_Rect:
+    serializedVersion: 2
+    x: 6.0761204
+    y: 2.026751
+    width: 109.84776
+    height: 132.9465
+  m_Offset: {x: 1.4999981, y: 12.500004}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.51365525, y: 0.5940228}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 31c067ff19fdf9b4cab9dcd0ff52688e, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.085, y: 0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.055, y: 0.49, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.065, y: 0.37, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.535, y: 0.06, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.495, y: -0.79, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.535, y: -0.66, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.255, y: 0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.025, y: 0.42, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.095, y: 0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.165, y: -0.79, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.225, y: 0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.345, y: 0.51, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.495, y: -0.46, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.535, y: 0.34, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.565, y: 0.16, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.565, y: -0.23, z: 0}
+    indices: 0f000e000c000d000c000e000b000c000d0009000c000b000a0009000b00080009000a00040009000800070004000800020004000700000004000200060004000000030004000600050004000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 6.0761204
+      y: 2.026751
+      width: 109.84776
+      height: 132.9465
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 62.5, z: 100, w: 81}

@@ -1,0 +1,17 @@
+public enum eNodeType
+{
+	NONE = 0,
+	ITEM = 1,
+	MORTY = 2,
+	NPC = 3,
+	TRAINER = 4,
+	PORTAL = 5,
+	SIGN_POST = 6,
+	GYM = 7,
+	GACHA_MACHINE = 8,
+	DIALOGUE_TRIGGER = 9,
+	QUEST_GIVER = 10,
+	CRAFT_TABLE = 11,
+	ITEM_CRATE = 12,
+	TOURNAMENT_TRAINER = 13
+}

@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: MaterialList
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.4986588, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f490e9b340919ece617d43fb29bfdbb2, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  materials:
+  - {fileID: 2100000, guid: 1d52b15d797930e4e816921650c79df2, type: 2}
+  - {fileID: 2100000, guid: da8510dac8ef9e64192dc1aecc90e317, type: 2}
+  - {fileID: 2100000, guid: 94ec5150c06c8f948a763f8c1b65aabd, type: 2}
+  - {fileID: 2100000, guid: ac74c739b8a67304d88033c91b191825, type: 2}
+  - {fileID: 2100000, guid: 0f87ef7e3d03c8446b99241a510859bc, type: 2}
+  - {fileID: 2100000, guid: be768cc9409ff8348b3606a952f79c12, type: 2}
+  - {fileID: 2100000, guid: 99303b55d0fff5e4c9cfdcb86ef9bdd4, type: 2}
+  - {fileID: 2100000, guid: e08da28bf3580f54d87ac044cbc244b5, type: 2}
+  - {fileID: 2100000, guid: a9d429a436c9f3542993d022004020ec, type: 2}
+  - {fileID: 2100000, guid: 0fc1c345a1f33424797210c68c982c71, type: 2}
+  - {fileID: 2100000, guid: d2d9bf60c41d0184d84deacf9a9d1df9, type: 2}
+  - {fileID: 2100000, guid: d0a593d16e1cbcc46953eb1e672f1d32, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1709254077376921}
+  m_IsPrefabAsset: 1

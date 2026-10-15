@@ -1,0 +1,7 @@
+{
+  "name": "FyberPlugin",
+  "references": [
+    "FyberLitJson"
+  ],
+  "allowUnsafeCode": true
+}

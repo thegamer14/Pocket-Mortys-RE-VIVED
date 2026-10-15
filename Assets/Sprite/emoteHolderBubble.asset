@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: emoteHolderBubble
+  m_Rect:
+    serializedVersion: 2
+    x: 671
+    y: 0
+    width: 235
+    height: 197
+  m_Offset: {x: 0, y: 0}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5, y: 0.5}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: e471fa7079a772e4a9d4a042d4ef9f07, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.935, y: 0.805, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.825, y: -0.945, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.935, y: 0.275, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.805, y: 0.955, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.725, y: 0.985, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.715, y: -0.985, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.965, y: -0.985, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.005, y: 0.985, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.075, y: -0.935, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.145, y: 0.885, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.155, y: -0.845, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.175, y: 0.795, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.175, y: -0.795, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.175, y: 0.275, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.945, y: -0.775, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.175, y: -0.185, z: 0}
+    indices: 010002000e000d000e0002000f000e000d000c000b000a0009000a000b0008000a000900070008000900060008000700040006000700050006000400010005000400030001000400000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 671
+      y: 0
+      width: 235
+      height: 197
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: 671, y: 0}
+    settingsRaw: 67
+    uvTransform: {x: 100, y: 788.5, z: 100, w: 98.5}

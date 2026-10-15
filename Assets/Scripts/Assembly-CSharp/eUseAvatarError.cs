@@ -1,0 +1,8 @@
+public enum eUseAvatarError
+{
+	UNKOWN = 0,
+	PLAYER_AVATAR_ID_INVALID = 1,
+	PLAYER_AVATAR_NOT_OWNED = 2,
+	FAILED = 3,
+	NONE = 4
+}

@@ -1,6 +1,6 @@
 # Pocket Mortys RE:VIVED
 
-![Pocket Mortys banner](assets/banner.jpg)
+![Pocket Mortys banner](media/banner.jpg)
 
 A work-in-progress **offline Windows port** of *Pocket Mortys* — the Rick & Morty mobile card-battler by Big Pixel Studios. The goal: the complete single-player campaign playable on PC with **no online connection required**. No servers, no sign-in, no cloud — everything runs and saves locally.
 

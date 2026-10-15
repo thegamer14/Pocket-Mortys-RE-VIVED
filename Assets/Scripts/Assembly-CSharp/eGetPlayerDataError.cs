@@ -1,0 +1,11 @@
+public enum eGetPlayerDataError
+{
+	UNKOWN = 0,
+	NO_RESPONSE = 1,
+	INVALID_RESPONSE = 2,
+	SESSION_ID_INVALID = 3,
+	SESSION_NOT_FOUND = 4,
+	INCLUDE_INVALID = 5,
+	FAILED = 6,
+	NONE = 7
+}

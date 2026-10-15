@@ -1,0 +1,18 @@
+public enum eMPNodeInteractionType
+{
+	NONE = 0,
+	USER = 1,
+	TRAINER = 2,
+	WILD_MORTY = 3,
+	NPC = 4,
+	ITEM = 5,
+	SIGN_POST = 6,
+	PORTAL = 7,
+	SALESMAN_RICK = 8,
+	STORAGE = 9,
+	MORTY_LAB = 10,
+	CRAFT_TABLE = 11,
+	GACHA_MACHINE = 12,
+	HEALING_CENTER = 13,
+	VIDEO_REWARD_MEESEEK = 14
+}

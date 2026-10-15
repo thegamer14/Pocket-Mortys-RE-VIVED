@@ -1,0 +1,6 @@
+public enum eStateAction
+{
+	DEACTIVATE_CURRENT = 0,
+	DEACTIVATE_ALL = 1,
+	ADD_CURRENT_TO_CACHE = 2
+}

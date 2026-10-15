@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: side_1
+  m_Rect:
+    serializedVersion: 2
+    x: 21.02675
+    y: 1.0761205
+    width: 80.89713
+    height: 110.86568
+  m_Offset: {x: 1.0246854, y: 24.491041}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5126665, y: 0.72090733}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 5fb63f16a57fa8a4d8ae6775659f97f9, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.285, y: 0.31, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.395, y: -0.46, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.395, y: 0.15, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.155, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.145, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.295, y: 0.31, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.415, y: 0.02, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.415, y: -0.3, z: 0}
+    indices: 070006000400050004000600000004000500030004000000010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 21.02675
+      y: 1.0761205
+      width: 80.89713
+      height: 110.86568
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 62.5, z: 100, w: 81}

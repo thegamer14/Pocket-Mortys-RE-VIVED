@@ -1,0 +1,146 @@
+[
+  {
+    "recipe_id": "RecipeBattery",
+    "sortorder": 14,
+    "item_id_1": "ItemTinCan",
+    "item_id_2": "ItemCable",
+    "item_id_3": "ItemFleeb",
+    "item_id_result": "ItemBattery"
+  },
+  {
+    "recipe_id": "RecipeDarkEnergyBall",
+    "sortorder": 18,
+    "item_id_1": "ItemFleeb",
+    "item_id_2": "ItemBacteriaCell",
+    "item_id_3": null,
+    "item_id_result": "ItemDarkEnergyBall"
+  },
+  {
+    "recipe_id": "RecipeFullRecover",
+    "sortorder": 10,
+    "item_id_1": "ItemPureFleeb",
+    "item_id_2": "ItemMutantBacteriaCell",
+    "item_id_3": "ItemSuperchargedBattery",
+    "item_id_result": "ItemFullRecover"
+  },
+  {
+    "recipe_id": "RecipeGreatSerum",
+    "sortorder": 3,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemPureFleeb",
+    "item_id_3": null,
+    "item_id_result": "ItemGreatSerum"
+  },
+  {
+    "recipe_id": "RecipeHalzinger",
+    "sortorder": 6,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemFleeb",
+    "item_id_3": "ItemBacteriaCell",
+    "item_id_result": "ItemHalzinger"
+  },
+  {
+    "recipe_id": "RecipeMegaSeedLevelUp",
+    "sortorder": 13,
+    "item_id_1": "ItemMegaSeedAttack",
+    "item_id_2": "ItemMegaSeedDefence",
+    "item_id_3": "ItemMegaSeedSpeed",
+    "item_id_result": "ItemMegaSeedLevelUp"
+  },
+  {
+    "recipe_id": "RecipeMortyChip",
+    "sortorder": 1,
+    "item_id_1": "ItemSuperchargedBattery",
+    "item_id_2": "ItemCircuitBoard",
+    "item_id_3": "ItemTinCan",
+    "item_id_result": "ItemMortyChip"
+  },
+  {
+    "recipe_id": "RecipeMutantBacteriaCell",
+    "sortorder": 17,
+    "item_id_1": "ItemBacteriaCell",
+    "item_id_2": "ItemTurbulentJuiceTube",
+    "item_id_3": null,
+    "item_id_result": "ItemMutantBacteriaCell"
+  },
+  {
+    "recipe_id": "RecipeParalysisCure",
+    "sortorder": 9,
+    "item_id_1": "ItemTinCan",
+    "item_id_2": "ItemTurbulentJuiceTube",
+    "item_id_3": "ItemDarkEnergyBall",
+    "item_id_result": "ItemParalysisCure"
+  },
+  {
+    "recipe_id": "RecipePlutonicRock",
+    "sortorder": 11,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemBacteriaCell",
+    "item_id_3": null,
+    "item_id_result": "ItemPlutonicRock"
+  },
+  {
+    "recipe_id": "RecipePoisonCure",
+    "sortorder": 8,
+    "item_id_1": "ItemTinCan",
+    "item_id_2": "ItemBacteriaCell",
+    "item_id_3": "ItemDarkEnergyBall",
+    "item_id_result": "ItemPoisonCure"
+  },
+  {
+    "recipe_id": "RecipePureHalzinger",
+    "sortorder": 7,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemPureFleeb",
+    "item_id_3": "ItemMutantBacteriaCell",
+    "item_id_result": "ItemPureHalzinger"
+  },
+  {
+    "recipe_id": "RecipePurePlutonicRock",
+    "sortorder": 12,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemMutantBacteriaCell",
+    "item_id_3": null,
+    "item_id_result": "ItemPurePlutonicRock"
+  },
+  {
+    "recipe_id": "RecipePureSerum",
+    "sortorder": 5,
+    "item_id_1": "ItemSuperchargedBattery",
+    "item_id_2": "ItemGreatSerum",
+    "item_id_3": null,
+    "item_id_result": "ItemPureSerum"
+  },
+  {
+    "recipe_id": "RecipePureSqueezedFleeb",
+    "sortorder": 16,
+    "item_id_1": "ItemFleeb",
+    "item_id_2": "ItemTurbulentJuiceTube",
+    "item_id_3": null,
+    "item_id_result": "ItemPureFleeb"
+  },
+  {
+    "recipe_id": "RecipeSensationalSerum",
+    "sortorder": 4,
+    "item_id_1": "ItemSuperchargedBattery",
+    "item_id_2": "ItemSerum",
+    "item_id_3": null,
+    "item_id_result": "ItemSensationalSerum"
+  },
+  {
+    "recipe_id": "RecipeSerum",
+    "sortorder": 2,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemFleeb",
+    "item_id_3": null,
+    "item_id_result": "ItemSerum"
+  },
+  {
+    "recipe_id": "RecipeSuperchargedBattery",
+    "sortorder": 15,
+    "item_id_1": "ItemBattery",
+    "item_id_2": "ItemTurbulentJuiceTube",
+    "item_id_3": null,
+    "item_id_result": "ItemSuperchargedBattery"
+  }
+]

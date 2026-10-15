@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Laughing0003
+  m_Rect:
+    serializedVersion: 2
+    x: 30.07612
+    y: 31.07612
+    width: 160.89713
+    height: 153.84775
+  m_Offset: {x: -0.52468073, y: 2.000004}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.49673903, y: 0.5129999}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 33a0484aab30f72449ed9973fd7e4336, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.77, y: 0.66, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.81, y: -0.75, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.81, y: 0.55, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.68, y: -0.79, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.42, y: 0.75, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.47, y: 0.75, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.69, y: -0.79, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.77, y: 0.56, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.8, y: 0.32, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.8, y: -0.65, z: 0}
+    indices: 090008000600070006000800050006000700030006000500040003000500000003000400010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 30.07612
+      y: 31.07612
+      width: 160.89713
+      height: 153.84775
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 110, z: 100, w: 110}

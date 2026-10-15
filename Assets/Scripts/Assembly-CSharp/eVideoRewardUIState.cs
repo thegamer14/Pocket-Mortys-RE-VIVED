@@ -1,0 +1,8 @@
+public enum eVideoRewardUIState
+{
+	NONE = 0,
+	WAITING_FOR_VIDEO = 1,
+	WAITING_FOR_REWARD = 2,
+	DISPLAY_REWARD = 3,
+	NO_VIDEO_AVAILABLE = 4
+}

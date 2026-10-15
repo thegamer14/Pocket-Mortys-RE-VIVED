@@ -1,0 +1,10 @@
+public enum eFriendSendRequestError
+{
+	UNKOWN = 0,
+	FAILED = 1,
+	PLAYER_ID_INVALID = 2,
+	FRIEND_DUPLICATE = 3,
+	FRIEND_LIMIT_SELF = 4,
+	FRIEND_LIMIT_OTHER = 5,
+	NONE = 6
+}

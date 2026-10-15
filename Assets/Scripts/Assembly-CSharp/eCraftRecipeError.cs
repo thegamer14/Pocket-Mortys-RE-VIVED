@@ -1,0 +1,9 @@
+public enum eCraftRecipeError
+{
+	UNKOWN = 0,
+	RECIPE_ID_INVALID = 1,
+	RECIPE_ITEM_NOT_OWNED = 2,
+	RECIPE_ITEM_RESULT_LIMIT = 3,
+	FAILED = 4,
+	NONE = 5
+}

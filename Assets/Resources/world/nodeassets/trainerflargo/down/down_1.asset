@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: down_1
+  m_Rect:
+    serializedVersion: 2
+    x: 0.026750982
+    y: 1.042908
+    width: 123.962364
+    height: 125.93034
+  m_Offset: {x: 0.49206743, y: 16.991919}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5039695, y: 0.6349311}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 7ed925dfb79363244837a98bfdcc13ce, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.615, y: 0.37, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.415, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.615, y: -0.48, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.395, y: 0.46, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.205, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.315, y: -0.37, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.325, y: -0.37, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.335, y: -0.37, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.375, y: 0.46, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.395, y: 0.45, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.475, y: -0.43, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.625, y: 0.06, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.625, y: -0.31, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.315, y: -0.38, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.335, y: -0.38, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.365, y: -0.42, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.435, y: -0.52, z: 0}
+    indices: 0d000600050010000f0004000e0004000f00060004000e000d0004000600050004000d000c000b000a0009000a000b0007000a000900080007000900030007000800060007000300050006000300040005000300010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 0.026750982
+      y: 1.042908
+      width: 123.962364
+      height: 125.93034
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 62.5, z: 100, w: 81}

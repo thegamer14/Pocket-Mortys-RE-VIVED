@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: YourLevelBarHolderBig
+  m_Rect:
+    serializedVersion: 2
+    x: 0
+    y: 1.026751
+    width: 559
+    height: 121.97325
+  m_Offset: {x: 0, y: -0.5133796}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5, y: 0.49579105}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 394bf5fa2bb2e8a448206e784e9f0723, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 2.685, y: 0.615, z: 0}
+    - serializedVersion: 2
+      pos: {x: 2.795, y: 0.125, z: 0}
+    - serializedVersion: 2
+      pos: {x: 2.795, y: 0.565, z: 0}
+    - serializedVersion: 2
+      pos: {x: 2.645, y: -0.355, z: 0}
+    - serializedVersion: 2
+      pos: {x: 2.305, y: -0.605, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.105, y: -0.605, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.035, y: -0.585, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.025, y: -0.175, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.495, y: -0.185, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.795, y: -0.115, z: 0}
+    - serializedVersion: 2
+      pos: {x: -2.535, y: 0.615, z: 0}
+    - serializedVersion: 2
+      pos: {x: -2.585, y: 0.595, z: 0}
+    - serializedVersion: 2
+      pos: {x: -2.795, y: 0.285, z: 0}
+    - serializedVersion: 2
+      pos: {x: -2.795, y: -0.115, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.085, y: -0.365, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.095, y: -0.445, z: 0}
+    indices: 0f000e000600070006000e000d000c0009000b0009000c000a0009000b00000009000a00080009000000070008000000060007000000050006000000040005000000030004000000010003000000020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 0
+      y: 1.026751
+      width: 559
+      height: 121.97325
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 279.5, z: 100, w: 61.5}

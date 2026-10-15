@@ -1,0 +1,278 @@
+[
+  {
+    "npc_id": "NPCBirdperson",
+    "asset_id": "NPCBirdperson"
+  },
+  {
+    "npc_id": "NPCKingJellybean",
+    "asset_id": "NPCMrJellybean"
+  },
+  {
+    "npc_id": "NPCMortyPlushSuit1",
+    "asset_id": "MortyMascot"
+  },
+  {
+    "npc_id": "NPCMortyPlushSuit2",
+    "asset_id": "MortyMascot"
+  },
+  {
+    "npc_id": "NPCMortyPlushSuit3",
+    "asset_id": "MortyMascot"
+  },
+  {
+    "npc_id": "NPCMortyStorage1",
+    "asset_id": "MortyBeard"
+  },
+  {
+    "npc_id": "NPCMortyStorage2",
+    "asset_id": "MortyThreeEye"
+  },
+  {
+    "npc_id": "NPCMortyStorage3",
+    "asset_id": "MortyScruffy"
+  },
+  {
+    "npc_id": "NPCMortyStorage4",
+    "asset_id": "MortyBuff"
+  },
+  {
+    "npc_id": "NPCRickAbusive",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickBald",
+    "asset_id": "RickBald"
+  },
+  {
+    "npc_id": "NPCRickBeard",
+    "asset_id": "RickBeard"
+  },
+  {
+    "npc_id": "NPCRickBubblegum",
+    "asset_id": "RickBubblegum"
+  },
+  {
+    "npc_id": "NPCRickChain",
+    "asset_id": "RickJunkYard"
+  },
+  {
+    "npc_id": "NPCRickChambersGuard",
+    "asset_id": "RickGuard"
+  },
+  {
+    "npc_id": "NPCRickCollector",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickDoofus",
+    "asset_id": "RickDoofus"
+  },
+  {
+    "npc_id": "NPCRickDreamy",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickFlatTop",
+    "asset_id": "RickFlatTop"
+  },
+  {
+    "npc_id": "NPCRickFringe",
+    "asset_id": "RickZero"
+  },
+  {
+    "npc_id": "NPCRickFuture",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickGlasses",
+    "asset_id": "RickFourEyes"
+  },
+  {
+    "npc_id": "NPCRickHippy",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickHopeful",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickLost",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickMortyFan",
+    "asset_id": "RickSuperFan"
+  },
+  {
+    "npc_id": "NPCRickMumbling",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickMustache",
+    "asset_id": "RickMustache"
+  },
+  {
+    "npc_id": "NPCRickNewest",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickOptimistic",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickPortalGuard",
+    "asset_id": "RickGuard"
+  },
+  {
+    "npc_id": "NPCRickShopping",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCRickStorageGuard",
+    "asset_id": "RickGuard"
+  },
+  {
+    "npc_id": "NPCRickTrainer",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCTournBirdperson",
+    "asset_id": "NPCBirdperson"
+  },
+  {
+    "npc_id": "NPCTournExteriorRick1",
+    "asset_id": "RickTournament"
+  },
+  {
+    "npc_id": "NPCTournExteriorRick2",
+    "asset_id": "RickTournament"
+  },
+  {
+    "npc_id": "NPCTournExteriorRickLocked",
+    "asset_id": "RickTournament"
+  },
+  {
+    "npc_id": "NPCTournGhost",
+    "asset_id": "RickGhost"
+  },
+  {
+    "npc_id": "NPCTournMortyTicket1",
+    "asset_id": "MortyBeard"
+  },
+  {
+    "npc_id": "NPCTournMortyTicket2",
+    "asset_id": "MortyThreeEye"
+  },
+  {
+    "npc_id": "NPCTournMortyTicket3",
+    "asset_id": "MortyScruffy"
+  },
+  {
+    "npc_id": "NPCTournMortyTicket4",
+    "asset_id": "MortyBuff"
+  },
+  {
+    "npc_id": "NPCTournRickBasic1",
+    "asset_id": "RickBeard"
+  },
+  {
+    "npc_id": "NPCTournRickBasic2",
+    "asset_id": "RickFlatTop"
+  },
+  {
+    "npc_id": "NPCTournRickBasic3",
+    "asset_id": "RickSuperFan"
+  },
+  {
+    "npc_id": "NPCTournRickBasic4",
+    "asset_id": "RickBald"
+  },
+  {
+    "npc_id": "NPCTournRickBasic5",
+    "asset_id": "RickDefault"
+  },
+  {
+    "npc_id": "NPCTrainerBlerg",
+    "asset_id": "TrainerBlerg"
+  },
+  {
+    "npc_id": "NPCTrainerFlargo",
+    "asset_id": "TrainerFlargo"
+  },
+  {
+    "npc_id": "NPCTrainerFlipperdeeFluflops",
+    "asset_id": "TrainerFlipperdeeFluflops"
+  },
+  {
+    "npc_id": "NPCTrainerGagigabber",
+    "asset_id": "TrainerGagigabber"
+  },
+  {
+    "npc_id": "NPCTrainerGloop",
+    "asset_id": "TrainerGloop"
+  },
+  {
+    "npc_id": "NPCTrainerGobpa",
+    "asset_id": "TrainerGobpa"
+  },
+  {
+    "npc_id": "NPCTrainerGoobagobaga",
+    "asset_id": "TrainerGoobagobaga"
+  },
+  {
+    "npc_id": "NPCTrainerHumox5",
+    "asset_id": "TrainerHumox5"
+  },
+  {
+    "npc_id": "NPCTrainerJerry",
+    "asset_id": "TrainerJerry"
+  },
+  {
+    "npc_id": "NPCTrainerMasyKallerax",
+    "asset_id": "TrainerMasyKallerax"
+  },
+  {
+    "npc_id": "NPCTrainerPrax",
+    "asset_id": "TrainerPrax"
+  },
+  {
+    "npc_id": "NPCTrainerPriix",
+    "asset_id": "TrainerPriix"
+  },
+  {
+    "npc_id": "NPCTrainerShmupiedoop",
+    "asset_id": "TrainerShmupiedoop"
+  },
+  {
+    "npc_id": "NPCTrainerSnisserchoops",
+    "asset_id": "TrainerSnisserchoops"
+  },
+  {
+    "npc_id": "NPCTrainerSnoofySnooples",
+    "asset_id": "TrainerSnoofySnooples"
+  },
+  {
+    "npc_id": "NPCTrainerToopee",
+    "asset_id": "TrainerToopee"
+  },
+  {
+    "npc_id": "NPCTrainerTuuieTumtops",
+    "asset_id": "TrainerTuuieTumtops"
+  },
+  {
+    "npc_id": "NPCTrainerWimpeebax",
+    "asset_id": "TrainerWimpeebax"
+  },
+  {
+    "npc_id": "NPCTrainerXqutoopikk",
+    "asset_id": "TrainerXqutoopikk"
+  },
+  {
+    "npc_id": "NPCTrainerZannabox",
+    "asset_id": "TrainerZannabox"
+  },
+  {
+    "npc_id": "NPCTrainerZanQuattaxa",
+    "asset_id": "TrainerZanQuattaxa"
+  }
+]

@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: front
+  m_Rect:
+    serializedVersion: 2
+    x: 20.047705
+    y: 43.026752
+    width: 358.8762
+    height: 610.89716
+  m_Offset: {x: -2.4857905, y: 9.024645}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.4930734, y: 0.5147728}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 9e492f5094dcbaf489012e373cf82f58, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 1.4, y: 1.965, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.31, y: 0.565, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.39, y: 1.605, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.01, y: 2.325, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.99, y: 0.445, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.82, y: 0.175, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.74, y: 2.595, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.5, y: 1.165, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.81, y: -0.825, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.82, y: -1.045, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.82, y: -0.885, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.75, y: -1.175, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.61, y: -0.445, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.6, y: -1.175, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.54, y: -0.325, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.23, y: -1.035, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.83, y: -0.785, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.83, y: -1.005, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.67, y: -1.445, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.59, y: -3.145, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.45, y: 2.835, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.04, y: 2.965, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.1, y: -3.145, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.54, y: 2.965, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.55, y: -0.885, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.69, y: -2.905, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.79, y: -1.255, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.8, y: -2.495, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.96, y: -1.805, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.96, y: -2.325, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.65, y: -0.855, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.74, y: 0.035, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.14, y: 0.235, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.2, y: 2.665, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.57, y: 0.345, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.58, y: 1.145, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.71, y: 1.685, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.73, y: 1.845, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.78, y: -2.975, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.9, y: -0.965, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.13, y: -0.445, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.21, y: -1.025, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.18, y: -0.155, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.29, y: -1.265, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.44, y: -1.315, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.48, y: 0.015, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.73, y: -0.325, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: -0.425, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: -0.965, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: 0.815, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: 0.565, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: 1.575, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.77, y: 1.185, z: 0}
+    indices: 34003300230024002300330032003100220023002200310030002f002c002e002c002f002d002c002e002a002c002d002b002c002a0029002b002a00280029002a002700290028001f00270028001e0027001f001300120026002500210024002300240021002200230021002000220021001700200021001f00200017001e001f00170018001e0017001d001c001b001a001b001c0019001b001a00180019001a001600190018001700160018001500160017001300160015001400130015000600130014001200130006001100120006000500110006001000110005000e00100005000f0010000e000d000f000e000c000d000e000b000d000c0008000b000c0009000b0008000a0009000800010002000700060003000500040005000300010004000300000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 20.047705
+      y: 43.026752
+      width: 358.8762
+      height: 610.89716
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 197, z: 100, w: 357.5}

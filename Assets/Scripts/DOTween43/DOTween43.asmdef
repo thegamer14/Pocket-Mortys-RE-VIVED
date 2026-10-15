@@ -1,0 +1,7 @@
+{
+  "name": "DOTween43",
+  "references": [
+    "DOTween"
+  ],
+  "allowUnsafeCode": true
+}

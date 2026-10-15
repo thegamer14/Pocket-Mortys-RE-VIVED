@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: front
+  m_Rect:
+    serializedVersion: 2
+    x: 4.0761204
+    y: 0
+    width: 260.84778
+    height: 629.97327
+  m_Offset: {x: 15.499992, y: 10.013355}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.5594216, y: 0.5158949}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: dae6c85000977dc49ae6c86bf51a185e, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: -1.12, y: 2.14, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.03, y: 1.4, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.99, y: 2.29, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.15, y: 2.08, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.15, y: 1.81, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.34, y: 3.03, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.76, y: -1.03, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.64, y: -1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.8, y: -0.96, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.93, y: 2.68, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.04, y: -0.22, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.12, y: 0.6, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.43, y: 1.33, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.46, y: 1.25, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.46, y: 1.12, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.12, y: 2.36, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.15, y: 1.61, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.15, y: 2.25, z: 0}
+    - serializedVersion: 2
+      pos: {x: 1.04, y: 1.43, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.96, y: 1.25, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.82, y: 2.79, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.79, y: 1.14, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.68, y: 2.88, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.67, y: 1.11, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.51, y: -1.34, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.29, y: 3.05, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.49, y: -3.25, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.21, y: 3.05, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.69, y: -1.65, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.69, y: -3.25, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.75, y: 0.54, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.75, y: -0.94, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.76, y: -0.36, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.55, y: -1.51, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.6, y: -2.12, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.59, y: -1.99, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.53, y: -2.3, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.14, y: -0.19, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.2, y: 0.53, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.35, y: 0.23, z: 0}
+    - serializedVersion: 2
+      pos: {x: -1.36, y: 0.09, z: 0}
+    indices: 2800270025002600250027000b00250026000a0025000b001a0018002400210024001800220024002100230022002100180017001f001e001f00170020001f001e001d001c001a0007001a001c0005001a0007001b001a00050019001a001b0018001a0019001600180019001700180016001500170016001400150016001300150014000f0013001400120013000f00100012000f00110010000f000e000d000b000c000b000d0001000b000c000a000b00010008000a000100020008000100090008000200050008000900060008000500070006000500040003000100000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 4.0761204
+      y: 0
+      width: 260.84778
+      height: 629.97327
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 150, z: 100, w: 325}

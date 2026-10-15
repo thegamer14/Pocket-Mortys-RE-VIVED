@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!213 &21300000
+Sprite:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Scared0001
+  m_Rect:
+    serializedVersion: 2
+    x: 29.07612
+    y: 30.07612
+    width: 172.89713
+    height: 160.84775
+  m_Offset: {x: -5.524681, y: -0.49999067}
+  m_Border: {x: 0, y: 0, z: 0, w: 0}
+  m_PixelsToUnits: 100
+  m_Pivot: {x: 0.46804643, y: 0.49689153}
+  m_Extrude: 1
+  m_IsPolygon: 0
+  m_AtlasName:
+  m_PackingTag:
+  m_RD:
+    texture: {fileID: 2800000, guid: 190df4242a224c84d8f620e8215da177, type: 3}
+    alphaTexture: {fileID: 0}
+    vertices:
+    - serializedVersion: 2
+      pos: {x: 0.71, y: 0.66, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.84, y: 0.49, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.91, y: 0.52, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.67, y: 0.64, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.67, y: 0.49, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.92, y: 0.69, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.92, y: 0.52, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.77, y: 0.69, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.92, y: -0.01, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.92, y: 0.51, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.87, y: -0.38, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.56, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: 0.51, y: 0.81, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.33, y: 0.81, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.4, y: -0.8, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.81, y: 0.6, z: 0}
+    - serializedVersion: 2
+      pos: {x: -0.81, y: -0.7, z: 0}
+    indices: 10000f000e000d000e000f000b000e000d000c000b000d0003000b000c00000003000c0004000b0003000b0004000a0001000a00040002000a00010008000a000200090008000200000007000200050002000700060002000500040003000100000001000300020001000000
+    textureRect:
+      serializedVersion: 2
+      x: 29.07612
+      y: 30.07612
+      width: 172.89713
+      height: 160.84775
+    textureRectOffset: {x: 0, y: 0}
+    atlasRectOffset: {x: -1, y: -1}
+    settingsRaw: 64
+    uvTransform: {x: 100, y: 110, z: 100, w: 110}

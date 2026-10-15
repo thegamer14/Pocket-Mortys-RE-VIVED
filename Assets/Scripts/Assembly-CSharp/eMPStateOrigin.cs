@@ -1,0 +1,24 @@
+using System;
+
+[Flags]
+public enum eMPStateOrigin
+{
+	NONE = 0,
+	WORLD = 1,
+	BATTLE = 2,
+	BAG = 4,
+	PARTY = 8,
+	MORTYDEX = 0x10,
+	MORTYDEX_ENTRY = 0x20,
+	MORTY_STATS = 0x40,
+	CRAFT = 0x80,
+	EDIT_DECK = 0x100,
+	LEARN_ATTACK = 0x200,
+	PLAYER_LEVEL = 0x400,
+	COUPON_USE = 0x800,
+	REWARD = 0x1000,
+	COMBINE = 0x2000,
+	FRIEND = 0x4000,
+	CHALLENGE = 0x8000,
+	VIDEO_REWARDS = 0x10000
+}

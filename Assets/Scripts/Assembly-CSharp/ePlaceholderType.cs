@@ -1,0 +1,18 @@
+public enum ePlaceholderType
+{
+	NONE = 0,
+	ITEM_PART_OR_CRATE = 1,
+	MORTY = 2,
+	NPC = 3,
+	TRAINER = 4,
+	PORTAL = 5,
+	SIGN_POST = 6,
+	GYM = 7,
+	GACHA_OR_CRAFT = 8,
+	DIALOGUE_TRIGGER = 9,
+	QUEST_GIVER = 10,
+	CRAFT_TABLE = 11,
+	GACHA_MACHINE = 12,
+	ITEM = 13,
+	ITEM_CRATE = 14
+}

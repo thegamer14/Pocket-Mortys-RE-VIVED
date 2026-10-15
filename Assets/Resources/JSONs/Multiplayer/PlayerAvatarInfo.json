@@ -1,0 +1,596 @@
+[
+  {
+    "player_avatar_id": "AvatarAntsInMyEyesJohnson",
+    "asset_id": "TrainerAntsInMyEyesJohnson",
+    "category": "",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 42
+  },
+  {
+    "player_avatar_id": "AvatarBeth",
+    "asset_id": "TrainerBeth",
+    "category": "",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 43
+  },
+  {
+    "player_avatar_id": "AvatarEyeholeMan",
+    "asset_id": "TrainerEyeholeMan",
+    "category": "",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 44
+  },
+  {
+    "player_avatar_id": "AvatarFloopyDoops",
+    "asset_id": "TrainerFloopyDoops",
+    "category": "",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": true,
+    "sortorder": 2
+  },
+  {
+    "player_avatar_id": "AvatarHamurai",
+    "asset_id": "TrainerHamurai",
+    "category": "",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 45
+  },
+  {
+    "player_avatar_id": "AvatarLilBits",
+    "asset_id": "TrainerLittleBits",
+    "category": "",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 23
+  },
+  {
+    "player_avatar_id": "AvatarMrNeedful",
+    "asset_id": "TrainerMrNeedful",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 60
+  },
+  {
+    "player_avatar_id": "AvatarMrStealy",
+    "asset_id": "TrainerMrStealy",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 61
+  },
+  {
+    "player_avatar_id": "AvatarPaulFleischman",
+    "asset_id": "TrainerPaulFleischman",
+    "category": "",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": true,
+    "sortorder": 3
+  },
+  {
+    "player_avatar_id": "AvatarRick800",
+    "asset_id": "Rick800",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 51
+  },
+  {
+    "player_avatar_id": "AvatarRickAlien",
+    "asset_id": "RickAlien",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 18
+  },
+  {
+    "player_avatar_id": "AvatarRickAqua",
+    "asset_id": "RickAqua",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 19
+  },
+  {
+    "player_avatar_id": "AvatarRickBald",
+    "asset_id": "RickBald",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 16
+  },
+  {
+    "player_avatar_id": "AvatarRickBeard",
+    "asset_id": "RickBeard",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 12
+  },
+  {
+    "player_avatar_id": "AvatarRickBeefcake",
+    "asset_id": "RickBeefcake",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 8
+  },
+  {
+    "player_avatar_id": "AvatarRickBubblegum",
+    "asset_id": "RickBubblegum",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 20
+  },
+  {
+    "player_avatar_id": "AvatarRickChair",
+    "asset_id": "RickChair",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 56
+  },
+  {
+    "player_avatar_id": "AvatarRickConstruction",
+    "asset_id": "RickConstruction",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 24
+  },
+  {
+    "player_avatar_id": "AvatarRickCowboy",
+    "asset_id": "RickCowboy",
+    "category": "Rick",
+    "cost": 3,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 27
+  },
+  {
+    "player_avatar_id": "AvatarRickCyclops",
+    "asset_id": "RickCyclops",
+    "category": "Rick",
+    "cost": 3,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 28
+  },
+  {
+    "player_avatar_id": "AvatarRickDandy",
+    "asset_id": "RickDandy",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 31
+  },
+  {
+    "player_avatar_id": "AvatarRickDefault",
+    "asset_id": "RickDefault",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 1
+  },
+  {
+    "player_avatar_id": "AvatarRickDoofus",
+    "asset_id": "RickDoofus",
+    "category": "Rick",
+    "cost": 3,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 26
+  },
+  {
+    "player_avatar_id": "AvatarRickDrWhome",
+    "asset_id": "RickDrWhome",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 57
+  },
+  {
+    "player_avatar_id": "AvatarRickDude",
+    "asset_id": "RickDude",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 22
+  },
+  {
+    "player_avatar_id": "AvatarRickEvil",
+    "asset_id": "RickEvil",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 32
+  },
+  {
+    "player_avatar_id": "AvatarRickFlatTop",
+    "asset_id": "RickFlatTop",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 13
+  },
+  {
+    "player_avatar_id": "AvatarRickFourEyes",
+    "asset_id": "RickFourEyes",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 14
+  },
+  {
+    "player_avatar_id": "AvatarRickGolfer",
+    "asset_id": "RickGolfer",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 39
+  },
+  {
+    "player_avatar_id": "AvatarRickGrandpa",
+    "asset_id": "RickGrandpa",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 36
+  },
+  {
+    "player_avatar_id": "AvatarRickGreaser",
+    "asset_id": "RickGreaser",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 6
+  },
+  {
+    "player_avatar_id": "AvatarRickGrunge",
+    "asset_id": "RickGrunge",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 40
+  },
+  {
+    "player_avatar_id": "AvatarRickGuilty",
+    "asset_id": "RickGuilty",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 33
+  },
+  {
+    "player_avatar_id": "AvatarRickHacker",
+    "asset_id": "RickHacker",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 52
+  },
+  {
+    "player_avatar_id": "AvatarRickHippie",
+    "asset_id": "RickHippie",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 41
+  },
+  {
+    "player_avatar_id": "AvatarRickJarHead",
+    "asset_id": "RickJarHead",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 58
+  },
+  {
+    "player_avatar_id": "AvatarRickJohnRick",
+    "asset_id": "RickJohnRick",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 59
+  },
+  {
+    "player_avatar_id": "AvatarRickJunkYard",
+    "asset_id": "RickJunkYard",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 34
+  },
+  {
+    "player_avatar_id": "AvatarRickKarate",
+    "asset_id": "RickKarate",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 7
+  },
+  {
+    "player_avatar_id": "AvatarRickMiami",
+    "asset_id": "RickMiami",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 46
+  },
+  {
+    "player_avatar_id": "AvatarRickMissy",
+    "asset_id": "RickMissy",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": true,
+    "sortorder": 5
+  },
+  {
+    "player_avatar_id": "AvatarRickMorty",
+    "asset_id": "RickMorty",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 25
+  },
+  {
+    "player_avatar_id": "AvatarRickMurderPatrol",
+    "asset_id": "RickMurderPatrol",
+    "category": "Rick",
+    "cost": 3,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 30
+  },
+  {
+    "player_avatar_id": "AvatarRickMustache",
+    "asset_id": "RickMustache",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 15
+  },
+  {
+    "player_avatar_id": "AvatarRickNinja",
+    "asset_id": "RickNinja",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 53
+  },
+  {
+    "player_avatar_id": "AvatarRickNovelist",
+    "asset_id": "RickNovelist",
+    "category": "Rick",
+    "cost": 1,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 21
+  },
+  {
+    "player_avatar_id": "AvatarRickRobot",
+    "asset_id": "RickRobot",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 47
+  },
+  {
+    "player_avatar_id": "AvatarRickSashAndCape",
+    "asset_id": "RickSashAndCape",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 11
+  },
+  {
+    "player_avatar_id": "AvatarRickShibuya",
+    "asset_id": "RickShibuya",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 48
+  },
+  {
+    "player_avatar_id": "AvatarRickSmooth",
+    "asset_id": "RickSmooth",
+    "category": "Rick",
+    "cost": 3,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 29
+  },
+  {
+    "player_avatar_id": "AvatarRickSuperFan",
+    "asset_id": "RickSuperFan",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 49
+  },
+  {
+    "player_avatar_id": "AvatarRickSurferDude",
+    "asset_id": "RickSurferDude",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 37
+  },
+  {
+    "player_avatar_id": "AvatarRickSurvivor",
+    "asset_id": "RickSurvivor",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 38
+  },
+  {
+    "player_avatar_id": "AvatarRickSwimmer",
+    "asset_id": "RickSwimmer",
+    "category": "Rick",
+    "cost": 2000,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 17
+  },
+  {
+    "player_avatar_id": "AvatarRickTheScientistKnownAs",
+    "asset_id": "RickTheScientistKnownAs",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 50
+  },
+  {
+    "player_avatar_id": "AvatarRickTurberlent",
+    "asset_id": "RickTurberlent",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 55
+  },
+  {
+    "player_avatar_id": "AvatarRickVapourWave",
+    "asset_id": "RickVapourWave",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 9
+  },
+  {
+    "player_avatar_id": "AvatarRickWarrior",
+    "asset_id": "RickWarrior",
+    "category": "Rick",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 54
+  },
+  {
+    "player_avatar_id": "AvatarRickZarchez",
+    "asset_id": "RickZarchez",
+    "category": "Rick",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": false,
+    "sortorder": 10
+  },
+  {
+    "player_avatar_id": "AvatarRickZero",
+    "asset_id": "RickZero",
+    "category": "Rick",
+    "cost": 5,
+    "currency": "coupons",
+    "mp_exclusive": false,
+    "sortorder": 35
+  },
+  {
+    "player_avatar_id": "AvatarScaryTerry",
+    "asset_id": "TrainerScaryTerry",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 66
+  },
+  {
+    "player_avatar_id": "AvatarSchleemypants",
+    "asset_id": "TrainerSchleemypants",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 62
+  },
+  {
+    "player_avatar_id": "AvatarSleepyGarry",
+    "asset_id": "TrainerSleepyGarry",
+    "category": "",
+    "cost": 0,
+    "currency": "coins",
+    "mp_exclusive": true,
+    "sortorder": 4
+  },
+  {
+    "player_avatar_id": "AvatarSquanchy",
+    "asset_id": "TrainerSquanchy",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 63
+  },
+  {
+    "player_avatar_id": "AvatarSummer",
+    "asset_id": "TrainerSummer",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 64
+  },
+  {
+    "player_avatar_id": "AvatarTinkles",
+    "asset_id": "TrainerTinkles",
+    "category": "",
+    "cost": 10,
+    "currency": "coupons",
+    "mp_exclusive": true,
+    "sortorder": 65
+  }
+]

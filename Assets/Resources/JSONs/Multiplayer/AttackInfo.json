@@ -1,0 +1,3369 @@
+[
+  {
+    "attack_id": "Attack100Cotton",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "Attack666",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.9
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAbsorb",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAerokinesis",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.7
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAntBite",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 115,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAscend",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAttention",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      },
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      },
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      },
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackAura",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBeam",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBelch",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBiokinesis",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 122,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBlindSwing",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBlink",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBlitz",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 140,
+        "accuracy": 0.33,
+        "continue_on_miss": true
+      },
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBloodPressure",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBloodSuck",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 25,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Poison",
+        "to_self": true,
+        "accuracy": 0.1,
+        "continue_on_miss": true
+      },
+      {
+        "type": "Absorb",
+        "power": 25,
+        "accuracy": 0.75
+      },
+      {
+        "type": "Poison",
+        "to_self": true,
+        "accuracy": 0.1,
+        "continue_on_miss": true
+      },
+      {
+        "type": "Absorb",
+        "power": 25,
+        "accuracy": 0.5
+      },
+      {
+        "type": "Poison",
+        "to_self": true,
+        "accuracy": 0.1,
+        "continue_on_miss": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBlowDry",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBlueSpray",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBoilSqueeze",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 105,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBoneExtract",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 106,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBrainFreeze",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBrand",
+    "pp_stat": 12,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBreakIn",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBunchUp",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -2
+      },
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1
+      },
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBunt",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackBurn",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCaress",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCellSplitter",
+    "pp_stat": 12,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCertitude",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 60,
+        "percent": 0.33,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackChastise",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.9
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCheekPinch",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackClarity",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackClaw",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 106,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackClawsOut",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackComb",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCompute",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCondition",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCough",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCrease",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCrewCut",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCrimp",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 58,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCriticise",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCrush",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCry",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCurl",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCut",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackCuttingGaze",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDarkVoid",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 108,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDeadStair",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDeathStare",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDefend",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDefragment",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 92,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDelouse",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDenial",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDescale",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 105,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDig",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDinnerTime",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDistract",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDoze",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDroll",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDrool",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDropOut",
+    "pp_stat": 10,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackDrowse",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackEffeteCharm",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackEncrust",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackEnergyDrain",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 60,
+        "percent": 0.33,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackEngulf",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackEntertain",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackErase",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackExamine",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackExfoliate",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.6
+      },
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.6
+      },
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.6
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackExoFragment",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFanArt",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.7
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFangRage",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 91,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFierceLunge",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFireBall",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFixerUpper",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFlail",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFlair",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFlowerChild",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFlutter",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFortify",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.9
+      },
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFossilise",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.9
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackFurBall",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGForce",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGlitterBlast",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGoldenTouch",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 130,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGooeyCheese",
+    "pp_stat": 5,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.9
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGooeyDischarge",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 78,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGrab",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Paralyse",
+        "accuracy": 0.6
+      },
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGreenBlur",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGrieve",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 60,
+        "percent": 0.33,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGrossOut",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackGuillotine",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHarden",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHaunt",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHeaveDown",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHibernate",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHornswoggle",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHug",
+    "pp_stat": 12,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHumiliate",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHydroBlast",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 115,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackHypnotize",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackIcyTouch",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackImmunisation",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 122,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackImplode",
+    "pp_stat": 1,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 400
+      },
+      {
+        "type": "Hit",
+        "power": 99999,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackInferno",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.8
+      },
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.5
+      },
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackInvasion",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackIronOut",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackJab",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackJuice",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 60,
+        "percent": 0.33,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackKick",
+    "pp_stat": 10,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLasso",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLegislate",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 107,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLegSweep",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 108,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLetItGo",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLick",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLift",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLoveBug",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackLoveYourself",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      },
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      },
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      },
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      },
+      {
+        "type": "Paralyse",
+        "to_self": true,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMachineWash",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMangle",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 130,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMedicate",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMelt",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMindMeld",
+    "pp_stat": 5,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 115,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMindRage",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMindRead",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMoisten",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMonetize",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 108,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMoodKill",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 113,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMope",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 78,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMortify",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMouthOff",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackMutate",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 105,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNail",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNegativeEnergy",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNeutralise",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNewWave",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNibble",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNickelAndDime",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackNodeOff",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackOrangeShower",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackOuija",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackOutburst",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackOutpour",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackParty",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPiercingStare",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 108,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPillage",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 40,
+        "percent": 0.2,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPiracy",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 70,
+        "percent": 0.33,
+        "accuracy": 0.95
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": -1,
+        "to_self": true,
+        "accuracy": 0.4
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPlasmaBurst",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPoisonSpit",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 30
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.15,
+        "continue_on_miss": true
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.5
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.15
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPoke",
+    "pp_stat": 12,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPout",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPray",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPreach",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPrey",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackProbe",
+    "pp_stat": 10,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 60,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackProtect",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackProtectionRacket",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackProvoke",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPuffyTail",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPunked",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackPurpleSquirt",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackQuickDraw",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRainBow",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackReboot",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 108,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRecitation",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      },
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -1,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRedMist",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRegenerate",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Absorb",
+        "power": 80,
+        "percent": 0.5,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRelax",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackReminisce",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRepress",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRetainStrength",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRickyTikkiTavi",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 35,
+        "accuracy": 1
+      },
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.7
+      },
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRollingStone",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 112,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRootDown",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 113,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackRush",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSalivate",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackScratchAndSniff",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 40,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 40
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.5
+      },
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackScratchingPost",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackScrunch",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackScuttle",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSelfie",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSelfPromote",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackServingUp",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackShadowPuppet",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackShatter",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackShave",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackShrinkingGas",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 98,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSignAutograph",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSing",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSlam",
+    "pp_stat": 12,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSliceAndDice",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 25,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 25
+      },
+      {
+        "type": "Hit",
+        "power": 25,
+        "accuracy": 0.8
+      },
+      {
+        "type": "Hit",
+        "power": 25,
+        "accuracy": 0.6
+      },
+      {
+        "type": "Hit",
+        "power": 25,
+        "accuracy": 0.3
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSlobber",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 115,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSlumber",
+    "pp_stat": 12,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSmooch",
+    "pp_stat": 8,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 80,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSneer",
+    "pp_stat": 18,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -1,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSneeze",
+    "pp_stat": 12,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSnippet",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 75,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSnooze",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 98,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSnotBlast",
+    "pp_stat": 5,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSnub",
+    "pp_stat": 12,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSoggyKiss",
+    "pp_stat": 10,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSolidify",
+    "pp_stat": 12,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 50,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSoulSearch",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.9
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSpar",
+    "pp_stat": 10,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 55,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSparkle",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": 3,
+        "to_self": true,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSpear",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.7
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSplash",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSprout",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -2
+      },
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -1
+      },
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStareDown",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Accuracy",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStarGaze",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Speed",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStaticShock",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": 2,
+        "to_self": true
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      },
+      {
+        "type": "Paralyse",
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStitch",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStockCrash",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStoneFists",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 45,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.6
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStoneGaze",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 70,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStoneWash",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 15,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 20
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.8
+      },
+      {
+        "type": "Hit",
+        "power": 35,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStraightEdge",
+    "pp_stat": 5,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 115,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStrengthen",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true,
+        "accuracy": 0.9
+      },
+      {
+        "stat": "Evade",
+        "type": "Stat",
+        "power": 1,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackStruggle",
+    "pp_stat": -1,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 25
+      },
+      {
+        "type": "Hit",
+        "power": 20,
+        "to_self": true
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSuck",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSuitAndBoot",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 65,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSuperNova",
+    "pp_stat": 5,
+    "element": "Paper",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 120,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSuplex",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 135,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackSwing",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 90,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackTateOchi",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -1
+      },
+      {
+        "stat": "Attack",
+        "type": "Stat",
+        "power": -1
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackThaw",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 95,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackTombstone",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.9
+      },
+      {
+        "type": "Paralyse",
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackTorch",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 78,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackTransplant",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 92,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackUnleash",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 140,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackVaccinate",
+    "pp_stat": 8,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.9
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackVapeFume",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 110,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackVaporize",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 78,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackVileSpew",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 85,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Poison",
+        "accuracy": 0.5
+      },
+      {
+        "type": "Poison",
+        "to_self": true,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackVomit",
+    "pp_stat": 10,
+    "element": "Rock",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 62,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackWearDown",
+    "pp_stat": 15,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -2,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackWedgie",
+    "pp_stat": 8,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 100,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackWetTounge",
+    "pp_stat": 5,
+    "element": null,
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 15,
+        "accuracy": 0.95
+      },
+      {
+        "type": "Hit",
+        "power": 20
+      },
+      {
+        "type": "Hit",
+        "power": 30,
+        "accuracy": 0.8
+      },
+      {
+        "type": "Hit",
+        "power": 35,
+        "accuracy": 0.5
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackWingBlast",
+    "pp_stat": 8,
+    "element": "Scissors",
+    "effects": [
+      {
+        "type": "Hit",
+        "power": 107,
+        "accuracy": 0.95
+      }
+    ]
+  },
+  {
+    "attack_id": "AttackWrangle",
+    "pp_stat": 10,
+    "element": null,
+    "effects": [
+      {
+        "stat": "Defence",
+        "type": "Stat",
+        "power": -3,
+        "accuracy": 0.95
+      }
+    ]
+  }
+]

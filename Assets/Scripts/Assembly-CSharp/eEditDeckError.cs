@@ -1,0 +1,9 @@
+public enum eEditDeckError
+{
+	UNKOWN = 0,
+	DECK_ID_INVALID = 1,
+	OWNED_MORTY_IDS_INVALID = 2,
+	OWNED_MORTY_IDS_LENGTH = 3,
+	FAILED = 4,
+	NONE = 5
+}

@@ -1,0 +1,11 @@
+public enum eBuyItemError
+{
+	UNKOWN = 0,
+	ITEM_ID_INVALID = 1,
+	INSUFFICIENT_COINS = 2,
+	ITEM_LIMIT = 3,
+	PLAYER_LEVEL = 4,
+	ITEM_INVALID = 5,
+	FAILED = 6,
+	NONE = 7
+}
